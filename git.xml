@@ -2,4 +2,5 @@
 	<name scope="provide">luxianghai</name>
 	<password>123456</password>
 	<database>ems</database>
+	<timeout>5000</timeout>
 </git>
